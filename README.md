@@ -1,3 +1,3 @@
 # Inserção-de-dados-e-queries
-
-Realizando a persistencia dos dados conforme tabales
+# Realizando a criação do script SQL para criação do esuema do banco de dados
+# Realizando a persistencia dos dados conforme tabales
