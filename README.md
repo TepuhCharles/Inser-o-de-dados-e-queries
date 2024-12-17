@@ -1,3 +1,3 @@
 # Inserção-de-dados-e-queries
 
-Realizand a persistencia dos dados conforme tabales
+Realizando a persistencia dos dados conforme tabales
